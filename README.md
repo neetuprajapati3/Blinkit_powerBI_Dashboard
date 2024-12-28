@@ -3,7 +3,7 @@
 # Enhanced Summary of the Blinkit Dashboard
 The Blinkit Power BI Dashboard provides a comprehensive overview of the business performance, focusing on sales, outlet performance, and customer preferences. Here’s a breakdown based on the visuals:
 
-1. ** Key Metrics:**
+**1. Key Metrics:**
 
 **Total Sales**: $1.20M in overall revenue.
 
@@ -13,7 +13,7 @@ The Blinkit Power BI Dashboard provides a comprehensive overview of the business
 
 **Average Rating:** 3.9, indicating moderate customer satisfaction.
 
-2. ** Visual Insights:**
+**2. Visual Insights:**
 
 **Sales Trends Over Time:** A line chart tracks sales growth across outlet establishment years, highlighting peak sales in 2018 at $205K.
 
