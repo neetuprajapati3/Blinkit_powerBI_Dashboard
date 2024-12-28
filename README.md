@@ -1,5 +1,7 @@
 # Blinkit_powerBI_Dashboard
 
+![image](https://github.com/user-attachments/assets/5289acac-764a-46db-9a09-7d1d9f597e14)
+
 # Enhanced Summary of the Blinkit Dashboard
 The Blinkit Power BI Dashboard provides a comprehensive overview of the business performance, focusing on sales, outlet performance, and customer preferences. Here’s a breakdown based on the visuals:
 
@@ -62,7 +64,7 @@ Increase visibility of underperforming outlet types and items.
 This dashboard highlights my expertise in Power BI by seamlessly integrating key metrics, enabling decision-makers to visualize trends, and providing actionable business insights. It reflects a strong understanding of data analysis and storytelling through visuals.
 
 
-![image](https://github.com/user-attachments/assets/5289acac-764a-46db-9a09-7d1d9f597e14)
+
 
 
 
